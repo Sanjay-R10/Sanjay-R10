@@ -1,13 +1,11 @@
 # Hi there, I'm Sanjay! 👋  
 
----
 
 ## **About Me** 🙋‍♂️  
 I'm an aspiring **front-end developer** currently learning **React.js, JavaScript, Tailwind CSS, and DSA**.  
 My goal is to become a skilled **full-stack developer**, and I'm also exploring **backend development with Python and Flask**.  
 I enjoy solving coding challenges and working on projects to sharpen my skills.  
 
----
 
 ## **🚀 Skills & Technologies (Learning)**  
 
@@ -26,7 +24,6 @@ I enjoy solving coding challenges and working on projects to sharpen my skills.
 ✅ Git & GitHub  
 ✅ VS Code  
 
----
 
 ## **🔥 What I'm Working On**  
 - Learning **React.js** and building small projects  
@@ -34,7 +31,6 @@ I enjoy solving coding challenges and working on projects to sharpen my skills.
 - Practicing **DSA** to improve coding skills  
 - Exploring **backend development** with Python & Flask  
 
----
 
 ## **🌍 Let's Connect!**  
 🚀 **GitHub:** [Your GitHub Link]  
