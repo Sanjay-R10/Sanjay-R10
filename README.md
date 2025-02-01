@@ -35,9 +35,9 @@ I enjoy solving coding challenges and working on projects to sharpen my skills.
 ---
 
 ## **🌍 Let's Connect!**  
-🚀 **GitHub:** [Your GitHub Link]  
-🔥 **LinkedIn:** [Your LinkedIn Link (If Available)]  
-📧 **Email:** [Your Email]  
+🚀 **GitHub:** [https://github.com/]  
+🔥 **LinkedIn:** [https://www.linkedin.com/in/sanjay-kumar-r-47437a329]  
+📧 **Email:** [sanjayganesh833@gmail.com]  
 
 ---
 
