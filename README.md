@@ -1,46 +1,48 @@
-# Hi there, I'm Sanjay! 👋  
+# Hi there, I'm Sanjay! 👋
 
-## **About Me** 🙋‍♂️  
-I'm an aspiring **Full stack-Engineer ** currently learning ** JavaScript, React.js and DSA**.  
-My goal is to become a skilled **full-stack developer**, and I'm also exploring **backend development with Python and Flask**.  
-I enjoy solving coding challenges and working on projects to sharpen my skills.  
+## About Me 🙋‍♂️
+I'm a **B.E. Computer Science** Engineer, passionate about building web applications.
+Currently focused on becoming a skilled **Full Stack Developer** with hands-on project experience in React and Firebase.
 
 ---
 
-## **🚀 Skills & Technologies (Learning)**  
+## 🚀 Skills & Technologies
 
-### **Frontend Development:**  
+### Frontend Development:
 ✅ HTML5
 ✅ CSS3
-✅ JavaScript (Currently Learning)  
-✅ React.js (Currently Learning)  
+✅ JavaScript
+✅ React.js (Vite)
+✅ Tailwind CSS
 
-### **Backend Development (Learning):**  
-✅ Python
-✅ Django
-✅ DBMS 
-✅ My sql
-✅ RESTful APIs  
+### Backend Development:
+✅ Firebase (Authentication & Firestore)
+✅ Python 
+✅ Django (FrameWork)
+✅ SQL
+✅ RESTful APIs
 
-### **Programming & Tools:**  
-✅ Data Structures & Algorithms (DSA) (Practicing)  
-✅ Git & GitHub  
-✅ VS Code  
-
----
-
-## **🔥 What I'm Working On**  
-- Mastering **JavaScript** 
-- Learning **React.js** and building small projects  
-- Practicing **DSA** to improve coding skills  
-- Exploring **backend development** with Python & Django
+### Tools & Others:
+✅ Git & GitHub
+✅ VS Code
+✅ Data Structures & Algorithms (DSA)
 
 ---
 
-## **🌍 Let's Connect!**  
-🚀 **GitHub:** [https://github.com/Sanjay-R10]  
-🔥 **LinkedIn:** [https://www.linkedin.com/in/sanjay-kumar-r-47437a329]  
-📧 **Email:** [sanjayganesh833@gmail.com]  
+## 🔥 Projects
+- 🔐 **Firebase Auth App** — User authentication app that saves login details to Firebase Firestore
+- 🎬 **Dynamic Movie Discovery** — Movie search app using OMDB API with card-based UI
 
 ---
 
+## 📚 Currently Learning
+- Advanced React.js & component architecture
+- DSA (LeetCode practice)
+- Grinding backend development
+
+---
+
+## 🌍 Let's Connect!
+🚀 **GitHub:** [github.com/Sanjay-R10](https://github.com/Sanjay-R10)
+🔥 **LinkedIn:** [linkedin.com/in/sanjay-r-profile](https://www.linkedin.com/in/sanjay-r-profile)
+📧 **Email:** sanjayganesh833@gmail.com
