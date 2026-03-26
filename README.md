@@ -45,4 +45,4 @@ Currently focused on becoming a skilled **Full Stack Developer** with hands-on p
 ## 🌍 Let's Connect!
 🚀 **GitHub:** [github.com/Sanjay-R10](https://github.com/Sanjay-R10)
 🔥 **LinkedIn:** [linkedin.com/in/sanjay-r-profile](https://www.linkedin.com/in/sanjay-r-profile)
-📧 **Email:** sanjayganesh833@gmail.com
+📧 **Email:** sanjaydev445@gmail.com
